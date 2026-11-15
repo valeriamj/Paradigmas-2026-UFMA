@@ -1,6 +1,6 @@
 # Projeto: Cálculo de Idade com POO
 
-# Aluna: Valéria Marques De Jesus
+# Alunas: Jully Kaylande Furtado Soares e Valéria Marques De Jesus
 
 ## Descrição
 Este projeto refatora um programa simples de cálculo de idade, originalmente desenvolvido com funções, utilizando o paradigma de Programação Orientada a Objetos (POO) em Python.
