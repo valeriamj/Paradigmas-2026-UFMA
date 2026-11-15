@@ -27,23 +27,4 @@ Este projeto refatora um programa simples de cálculo de idade, originalmente de
 ```bash
 python main.py
 ```
-
-Se o comando `python` não funcionar no Windows, tente:
-
-```bash
-py main.py
-```
-
-## Exemplo de execução
-
-```text
-Digite o ano atual: 2026
-Digite o seu ano de nascimento: 2003
-Digite seu nome: Valéria
-
-Resultado:
-Olá, Valéria! Sua idade é:
-23 anos
-```
-
 > Observação: o programa calcula a idade apenas pela diferença entre os anos. Para saber a idade exata, também seria necessário verificar se a pessoa já fez aniversário no ano atual.
